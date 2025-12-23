@@ -1,42 +1,104 @@
-# 💫 Hi 👋, I'm Kothapalem Satheesh
-**A passionate  AI/ML Engineer|| STUDENT FROM LPU**
+<div align="center">
 
-Email Me 👉 ✉️ **satheeshyadav85@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kothapalem-satheesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 💫 Hi, I'm Kothapalem Satheesh 👋  
+### 🚀 AI / ML Engineer in the Making | LPU Student  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satheesh_yadav31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kothapalem-satheesh/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22767725) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satheesh_y26854) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satheeshyadav85@gmail.com) 
+💡 Turning **data into intelligence** and **ideas into real-world solutions**
 
-<!-- Snake Game Repo View -->
+📩 **Reach me at:**  
+✉️ satheeshyadav85@gmail.com  
 
+🤝 Open to **collaborations, projects, internships & research**
+
+</div>
+
+---
+
+## 🧠 About Me
+- 🎓 Student at **Lovely Professional University (LPU)**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 📊 Love working with **data, models, and scalable systems**
+- 🛠️ Building projects that solve **real-world problems**
+- 🌱 Constantly learning & improving every day
+
+---
+
+## 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=Kothapalem-satheesh&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/satheesh_yadav31"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kothapalem-satheesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/22767725"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://x.com/satheesh_y26854"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kothapalem-satheesh&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kothapalem-satheesh&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kothapalem-satheesh&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack
 
+### 👨‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🤖 AI / ML & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kothapalem-satheesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### 🛢️ Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kothapalem-satheesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 
-## 💸 Support My Work 🤝	
+## 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=Kothapalem-satheesh&show_icons=true&theme=default)
+![](https://nirzak-streak-stats.vercel.app/?user=Kothapalem-satheesh&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kothapalem-satheesh&layout=compact)
 
-If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kothapalemsatheesh) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🔝 Top Contributions
+![](https://github-contributor-stats.vercel.app/api?username=Kothapalem-satheesh&limit=5&theme=dark)
+
+---
+
+## ☕ Support My Work
+If my projects or content helped you, consider supporting 💙  
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/kothapalemsatheesh)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kothapalem-satheesh&color=0" />
+</p>
