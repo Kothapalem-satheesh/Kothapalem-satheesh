@@ -2,58 +2,34 @@
 
 # 💫 Hi 👋, I'm **Kothapalem Satheesh**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+the+Making;Data+Driven+Problem+Solver;Building+Intelligent+Systems;Student+at+Lovely+Professional+University" />
+### AI & Machine Learning Engineer
 
-### 🚀 Turning **Data into Intelligence** | 🤖 Building **AI-Powered Solutions**
-
-📩 **Email:** satheeshyadav85@gmail.com  
-🤝 Open for **Internships • Projects • Research • Collaboration**
+[![Website](https://img.shields.io/badge/Website-kothapalemsatheesh.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kothapalemsatheesh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kothapalem--satheesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalem-satheesh/)
+[![Email](https://img.shields.io/badge/Email-satheeshyadav85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satheeshyadav85@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
-- 🎓 Student at **Lovely Professional University (LPU)**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Skilled in **data analysis, model building & deployment**
-- 🛠️ Love building **real-world, scalable AI applications**
-- 🌱 Always learning | Always improving
+<img src="./assets/banner.png" alt="Kothapalem Satheesh Banner" width="100%" />
 
 ---
 
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=Kothapalem-satheesh&theme=radical&no-frame=true&margin-w=10)
+## 👨🏻‍💻 About Me:
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=22D3EE&multiline=true&width=420&height=140&lines=AI+Engineer+%7C+ML+Builder;Designing+Intelligent+Systems;Building+Scalable+Solutions" alt="AI Engineer Animation" align="right" />
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/satheesh_yadav31"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kothapalem-satheesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/22767725"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://x.com/satheesh_y26854"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:satheeshyadav85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+- 🙋‍♂️ All about me is at **[My Website](https://www.kothapalemsatheesh.com)**
+- 🔭 I am currently working on **AI & ML real-world projects**
+- 🌱 I am currently learning **advanced AI, deep learning, and scalable systems**
+- 👯 I am looking to collaborate on **AI/ML and web-based projects**
+- 🤝 Open to **internships, research, and impactful collaborations**
+- 💬 Ask me about **AI, ML, data science, and project building**
+- 👨‍💻 Life Hack: **Learn, build, and share consistently**
+- ⚡ Fun fact: **I enjoy exploring new tech tools every day**
 
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|-------|------------|------|
-| 🤖 **AI Chatbot** | Intelligent chatbot using NLP & ML models | Python, NLP |
-| 📊 **Book Recommender System** | Recommendation engine using clustering | Python, ML |
-| 🔐 **Secure Messaging App** | End-to-end encrypted chat application | MERN, Socket.io |
-| 📈 **Sales Forecasting** | Time-series forecasting model | ML, Pandas |
-
-> ⭐ *More projects coming soon…*
+<br clear="right" />
 
 ---
 
@@ -98,7 +74,7 @@
 ---
 
 ## ☕ Support My Work
-If my projects helped you, consider supporting 💙  
+If my projects helped you, consider supporting 💙
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00F7FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kothapalemsatheesh)
 
