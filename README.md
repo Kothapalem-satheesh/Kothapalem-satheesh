@@ -2,7 +2,7 @@
 
 # 💫 Hi 👋, I'm **Kothapalem Satheesh**
 
-### AI & Machine Learning Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+and+Scalable+Solutions;Passionate+about+AI%2C+ML%2C+and+NLP" alt="Typing Role Animation" />
 
 [![Website](https://img.shields.io/badge/Website-kothapalemsatheesh.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kothapalemsatheesh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kothapalem--satheesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalem-satheesh/)
@@ -16,40 +16,54 @@
 
 ---
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=22D3EE&multiline=true&width=420&height=140&lines=AI+Engineer+%7C+ML+Builder;Designing+Intelligent+Systems;Building+Scalable+Solutions" alt="AI Engineer Animation" align="right" />
+<table>
+  <tr>
+    <td width="62%" valign="middle">
 
 - 🙋‍♂️ All about me is at **[My Website](https://www.kothapalemsatheesh.com)**
-- 🔭 I am currently working on **AI & ML real-world projects**
-- 🌱 I am currently learning **advanced AI, deep learning, and scalable systems**
-- 👯 I am looking to collaborate on **AI/ML and web-based projects**
-- 🤝 Open to **internships, research, and impactful collaborations**
-- 💬 Ask me about **AI, ML, data science, and project building**
-- 👨‍💻 Life Hack: **Learn, build, and share consistently**
-- ⚡ Fun fact: **I enjoy exploring new tech tools every day**
+- 🔭 Currently building **real-world AI/ML applications**
+- 🌱 Currently learning **deep learning and scalable ML systems**
+- 👯 Looking to collaborate on **AI/ML and full-stack projects**
+- 🤝 Open to **internships, research, and collaborations**
+- 💬 Ask me about **AI, ML, data science, and project development**
+- ⚡ Fun fact: **I enjoy exploring new tools and tech daily**
 
-<br clear="right" />
+  </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM2emhmdnQwbjA2MnB6N2VjM2kydnQzaDdxeDZlMXl2M2RnaTVjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCRloybJlXpNjSU/giphy.gif" alt="AI Engineer Animation" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming
+![HTML5](https://img.shields.io/badge/HTML5-00F7FF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00F7FF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00F7FF?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-00F7FF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00F7FF?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-00F7FF?style=for-the-badge&logo=javascript)
+![C++ (Basic)](https://img.shields.io/badge/C%2B%2B-Basic-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=black)
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML / NLP & Data
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![NLTK](https://img.shields.io/badge/NLTK-111111?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-111111?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface)
 
 ### 🌐 Web & Backend
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
 
@@ -62,14 +76,19 @@
 ---
 
 ## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Kothapalem-satheesh&show_icons=true&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=Kothapalem-satheesh&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kothapalem-satheesh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kothapalem-satheesh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=21600)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kothapalem-satheesh&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kothapalem-satheesh&layout=compact&theme=radical&cache_seconds=21600)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kothapalem-satheesh&theme=react-dark)
+
+> Note: GitHub stat cards are cached and may take some time to reflect new commits.
 
 ---
 
 ## ✨ Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "AI is not here to replace human creativity, but to amplify it through intelligent systems."
+>
+> — Kothapalem Satheesh
 
 ---
 
@@ -77,10 +96,3 @@
 If my projects helped you, consider supporting 💙
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00F7FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kothapalemsatheesh)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kothapalem-satheesh&color=6" />
-</p>
-
